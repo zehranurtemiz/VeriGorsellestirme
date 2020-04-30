@@ -14,6 +14,9 @@ Veri analizi için Pandas kütüphanesi; veri görselleştirme için ise Matplot
 Python Pandas ve Matplotlib kütüphaneleri kullanılarak veri analizi ve veri görselleştirme örnekleri bulunmaktadır.
 
 Oluşturulan grafik örnekleri aşağıdaki gibidir.
-![Figure_32.png](VeriGorsellestirme/figure/)
-![Figure_37.png](VeriGorsellestirme/figure/)
-![Figure_45.png](VeriGorsellestirme/figure/)
+
+![Figure_32.png](/figure/Figure_32.png)
+
+![Figure_37.png](/figure/Figure_37.png)
+
+![Figure_45.png](V/figure/Figure_45.png)
