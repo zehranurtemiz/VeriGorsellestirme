@@ -15,8 +15,6 @@ Python Pandas ve Matplotlib kütüphaneleri kullanılarak veri analizi ve veri g
 
 Oluşturulan grafik örnekleri aşağıdaki gibidir.
 
-![Figure_32.png](/figure/Figure_32.png)
+![Figure_32.png](/figure/Figure_32.png) ![Figure_45.png](/figure/Figure_45.png)
 
 ![Figure_37.png](/figure/Figure_37.png)
-
-![Figure_45.png](V/figure/Figure_45.png)
